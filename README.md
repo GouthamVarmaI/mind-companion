@@ -56,4 +56,4 @@ This project follows the licensing terms of the Gemma model and its components.
 - Hugging Face for infrastructure
 - Mental health professionals for guidance on ethical considerations
 
-For more details, visit our [Hugging Face Model Page](https://huggingface.co/GouthamVarma/mentalhealth_conversational_chatbot)
+For more details, visit our [Kaggle Notebook]([https://www.kaggle.com/code/gouthamvarmaindukuri/mind-companion])
